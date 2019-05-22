@@ -3,16 +3,10 @@
  Each Path as it is shown below, starts with "STARTPATH" line, continues from the most general term to the most specific term in the path and ends with "ENDPATH" term.
  
  STARTPATH
- 
  Most general category
-
- Second most general categorry
-
+ Second most general category
  third most general category (third most specific category)
-
  second most specific category
-
  Most specific category
-
  ENDPATH
  
