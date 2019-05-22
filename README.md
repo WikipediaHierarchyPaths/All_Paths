@@ -5,7 +5,7 @@
  STARTPATH  
  Most general category  
  Second most general category  
- Third most general category (third most specific category)  
+ Third most general category (Or the third most specific category)  
  Second most specific category  
  Most specific category  
  ENDPATH
